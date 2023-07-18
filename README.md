@@ -12,4 +12,8 @@ Dataset: [Información con link de descarga](https://www.kaggle.com/datasets/def
 
 Modelos: unet
 
-Enlaces del código, video, y repositorio
+Enlaces del código: https://github.com/Edinsson-G/ProyectoIA2/blob/main/proyectoIA.ipynb
+
+video: https://youtu.be/mCnByix_8lI
+
+repositorio: https://github.com/Edinsson-G/ProyectoIA2/tree/main
